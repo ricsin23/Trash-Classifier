@@ -1,6 +1,6 @@
 # Trash-Classifier
 It is an automated waste classification system using Convolution Neural Network (CNN) algorithm, a Deep Learning based image classification model used to classify objects into bio and non-biodegradable, based on the object recognition accuracy in real-time.   
-<img src="bio_non-bio.png"/>
+<img src="bio_non-bio.png">
 
 ### PROTOTYPE DESIGN:
 CNN is the most appropriate image classification method,which can be
